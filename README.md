@@ -7,6 +7,7 @@
 ## API + ABI
 - [ ] stateless toxcore
 - [ ] Groupchats without net_crypto
+- [ ] consistant naming (also merge hell!)
 
 ## Protocol only
 - [ ] Net_crypto multiple key pairs

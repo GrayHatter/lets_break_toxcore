@@ -2,7 +2,7 @@
 
 
 ## Everything
-- [ ] *Turn Messenger into a Module instead of the manager for toxcore*
+- [ ] **Turn Messenger into a Module instead of the manager for toxcore**
 - [ ] Forwards & backwards compatiblity
 
 ## API Only

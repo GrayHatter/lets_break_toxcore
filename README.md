@@ -6,6 +6,7 @@
 
 ## API + ABI
 - [ ] stateless toxcore
+- [ ] Groupchats without net_crypto
 
 ## Protocol only
 - [ ] Net_crypto multiple key pairs
@@ -18,3 +19,4 @@
 
 
 ### Nothing, aren't you lucky
+- [ ] Groupchats (if done after net_crypto)

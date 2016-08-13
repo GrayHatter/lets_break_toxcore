@@ -5,6 +5,7 @@
 ## ABI Only
 
 ## API + ABI
+- [ ] stateless toxcore
 
 ## Protocol only
 - [ ] Net_crypto multiple key pairs

@@ -6,6 +6,7 @@
 - [ ] Forwards & backwards compatiblity
 
 ## API Only
+- [ ] Multi device
 
 ## ABI Only
 
